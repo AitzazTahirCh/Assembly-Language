@@ -1,0 +1,2 @@
+Write a program in assembly language that calculates the square of
+six by adding six to the accumulator six times
